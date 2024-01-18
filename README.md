@@ -11,7 +11,7 @@ This is a simple portfolio project built using HTML and CSS. It showcases my ski
 - [License](#license)
 
 ## Demo
-You can view a live demo of the portfolio project [here](#).
+You can view a live demo of the portfolio project [https://mehrajiclasses.github.io/My-portfolio/](#).
 
 ## Features
 - Clean and responsive design
